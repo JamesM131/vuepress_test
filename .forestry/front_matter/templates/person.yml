@@ -1,0 +1,14 @@
+---
+label: Person
+hide_body: true
+display_field: photo
+fields:
+- type: file
+  name: photo
+  label: Photo
+- type: list
+  name: cases
+  label: Cases
+- type: list
+  name: positions
+  label: Positions
