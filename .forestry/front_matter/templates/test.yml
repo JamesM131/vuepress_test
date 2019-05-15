@@ -1,0 +1,13 @@
+---
+label: test
+hide_body: true
+fields:
+- type: file
+  name: photo
+  label: photo
+- type: list
+  name: cases
+  label: cases
+- type: list
+  name: positions
+  label: positions
