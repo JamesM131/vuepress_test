@@ -12,3 +12,5 @@ fields:
 - type: list
   name: positions
   label: Positions
+pages:
+- Docs/barrister 1.md
