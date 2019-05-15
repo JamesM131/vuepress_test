@@ -11,3 +11,12 @@ fields:
 - type: list
   name: positions
   label: positions
+- name: tats
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: tats
