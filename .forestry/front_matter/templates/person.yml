@@ -1,7 +1,6 @@
 ---
 label: Person
-hide_body: true
-display_field: photo
+hide_body: false
 fields:
 - type: file
   name: photo
