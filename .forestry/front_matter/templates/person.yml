@@ -13,4 +13,5 @@ fields:
   name: positions
   label: Positions
 pages:
+- Docs/Test.md
 - Docs/barrister 1.md
